@@ -1,7 +1,7 @@
 /**
  * Theme Javascript - FM Webflow website
  */
-
+console.log("theme-js.js");
 /**
  * Init slider.
  * 

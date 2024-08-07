@@ -1,7 +1,8 @@
 /**
  * Theme Javascript - FM Webflow website
  */
-console.log("theme-js.js");
+(function() {
+
 /**
  * Init slider.
  * 
@@ -644,3 +645,5 @@ function initImageSizesFix() {
     });
 }
 initImageSizesFix();
+
+})();

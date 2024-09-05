@@ -25,6 +25,10 @@
     z-index: 1;
 }
 
+.btn:hover {
+   background-color: #F6F4F4 !important;
+}
+
 .btn:hover:before {
     transform: scale(1) translate(0, 0);
 }

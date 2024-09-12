@@ -708,7 +708,7 @@ html.wf-design-mode .feature .feature__icon div {
     min-width: 179.77vh;
     position: absolute;
     object-fit: cover;
-    top: 50%;
+    top: 54%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
